@@ -1,0 +1,8 @@
+Cr : NFBTeam
+Link : https://t.me/NFBteam
+
+
+1:
+pip install telethon
+2: 
+python3 nfb.py
